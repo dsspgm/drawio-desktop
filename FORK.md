@@ -5,7 +5,7 @@ This fork includes **drawio-desktop** and the **drawio** submodule located [here
 
 Overview
 --------
-1. The property definition dialog now has options; seperate them with | (pipe) they will render as a dropdown.
+1. Property now has an optional Options field to render set dropdowns; seperate them with a | (pipe)
 2. The export menu now provides NOX endpoint
 3. The NOX stencil now includes:
 <br/>3.1 Security<br/>3.2 Define
